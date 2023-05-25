@@ -21,5 +21,5 @@
   <li>Mejorar la capacidad de adaptación a otros frameworks JavaScript</li>
   <li>Crear aplicaciones web modernas con JavaScript y React</li>
   <li>Aumentar las posibilidades laborales como desarrollador</li>
-  <li>¡Y mucho más!</li>
-</ul>
+  
+<!-- </ul> -->
