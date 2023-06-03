@@ -1,8 +1,7 @@
 import React from 'react'
 
 export const Micomponente = () => {
-    let nombre = 'fabio';
-    let web = 'fabio.com'
+ 
 
     let usuario ={
         nombre : 'fabio',
