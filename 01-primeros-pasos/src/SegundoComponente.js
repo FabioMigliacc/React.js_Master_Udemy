@@ -9,7 +9,8 @@ console.log(libros)
 
     return (
         <div className='segundo-componente'>
-            <h1>  Listado de libros</h1>
+            <h1> segundo componente</h1>
+            <h2>  Listado de libros</h2>
 
             {libros.length >= 1 ? 
             (<ul>

@@ -5,6 +5,7 @@ import PropTypes from 'prop-types';
 export const Tercercomponente = ({nombre, apellido , ficha}) => {
   return (
     <div>
+        <h1> tercer componente</h1>
         <ul>
             <li>{nombre}</li>
             <li>{apellido}</li>
