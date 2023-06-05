@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import { Micomponente } from './Micomponente';
 import { SegundoComponente } from './SegundoComponente';
+import { Tercercomponente } from './Tercercomponente';
 function App() {
   return (
     <div className="App">
@@ -9,6 +10,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <Micomponente />
         <SegundoComponente/>
+        <Tercercomponente/>
       </header>
       
     </div>
