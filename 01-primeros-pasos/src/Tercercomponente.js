@@ -28,6 +28,6 @@ Tercercomponente.propTypes = {
 
 Tercercomponente.defaultProps = {
 
-    nombre : 'pino',
-    apellido: 'daniele'
+    nombre : 'fabs',
+    apellido: 'pin'
 }
